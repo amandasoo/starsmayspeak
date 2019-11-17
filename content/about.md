@@ -1,7 +1,7 @@
 ---
 title: What's Going On???
 subtitle: Welcome to the world of confusion
-img_path: /images/10.jpg
+img_path: /images/foxy.jpg
 menu:
   main:
     name: About
