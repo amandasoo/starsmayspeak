@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: What's Going On???
 subtitle: This is a short page about me and my work
 img_path: images/about.jpg
 menu:
@@ -9,9 +9,9 @@ menu:
 layout: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Amanda Soo** is a very confused aspiring web developer trying to learn how to deploy her first website via GitHub, Netlify and Netlify, but right now, she's utterly confused.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+**HELP AMANDA TODAY.**
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
