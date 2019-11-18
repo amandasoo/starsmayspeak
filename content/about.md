@@ -14,4 +14,4 @@ layout: page
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, Amanda likes to make her life more complicated by diving into things sheis clueless about navigating. Like getting this site up and going.
+As a hobby, Amanda likes to make her life more complicated by diving into things she is clueless about navigating. Like getting this site up and going.
