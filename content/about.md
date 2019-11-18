@@ -8,7 +8,7 @@ menu:
     weight: 2
 layout: page
 ---
-**Amanda Soo** is a very confused aspiring web developer trying to learn how to deploy her first static website via GitHub, Netlify and Netlify, but right now, she's utterly confused. Clearly, it's not going well.
+**Amanda Soo** is a very confused aspiring web developer trying to learn how to deploy her first static website via GitHub, Netlify and Netlify CMS, but right now, she's utterly confused. Clearly, it's not going well.
 
 **HELP AMANDA TODAY.**
 
